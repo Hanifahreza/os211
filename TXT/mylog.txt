@@ -11,5 +11,5 @@ ZCZC W01 30 L14 Working on Assignment #4
 ZCZC W01 30 L15 Working on Assignment #5
 ZCZC W01 60 L18 Working on Assignment #8
 ZCZC W01 45 L17 Working on Assignment #7
-ZCZC W01 L16 Working on Assignment #6
-ZCZC W01 L03 Mengurus permalink w01.md, dsb
+ZCZC W01 30 L16 Working on Assignment #6
+ZCZC W01 40 L03 Mengurus permalink w01.md, dsb
