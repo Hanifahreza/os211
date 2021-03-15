@@ -1,8 +1,10 @@
 #!/bin/bash
 
-
+REC1="operatingsystem@vlsm.org"
+REC2="mhanifahreza@gmail.com"
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
+
 
 echo "rm -f $SHA $SHA.asc" 
 rm -f $SHA $SHA.asc
