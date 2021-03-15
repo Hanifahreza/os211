@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REC1="operatingsystem@vlsm.org"
-REC2="mhanifahreza@gmail.com"
+REC2="muhammad.hanif.fahreza@gmail.com"
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
