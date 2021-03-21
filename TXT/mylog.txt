@@ -17,3 +17,11 @@ ZCZC W02 60 L08 Generate public key and trying to generate SHA256 by writing scr
 ZCZC W02 90 L25 Watching C and C pointer tutorial in youtube
 ZCZC W02 180 L05 GSGS mengenai materi W02 untuk mylog.txt
 ZCZC W02 60 L10 Menulis mylog.txt untuk W02
+ZCZC W03 90 L10 Membuat username baru yang cocok dengan username github
+ZCZC W03 30 L08 Installing windows xp in Vbox
+ZCZC W03 120 L05 GSGS Link menarik untuk W03
+ZCZC W03 30 L10 Demo W03
+ZCZC W03 120 L22 Watching youtube links for W03.md
+ZCZC W03 60 L08 Making shared folder
+ZCZC W03 60 L10 Making W03.md
+

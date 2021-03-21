@@ -1,3 +1,4 @@
+[W02](https://hanifahreza.github.io/os211/W02/)
 # os211
 
 Operating Systems 2021-1 (Semester Genap 2020/2021).
@@ -7,4 +8,7 @@ Muhammad Hanif Fahreza - 1906351026
 [myrank](TXT/myrank.txt)
 [W01](https://hanifahreza.github.io/os211/W01/)
 [W02](https://hanifahreza.github.io/os211/W02/)
+[W03](https://hanifahreza.github.io/os211/W03/)
+
+
 
