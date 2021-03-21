@@ -1,4 +1,4 @@
-[W02](https://hanifahreza.github.io/os211/W02/)
+
 # os211
 
 Operating Systems 2021-1 (Semester Genap 2020/2021).
