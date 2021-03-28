@@ -1,5 +1,3 @@
-echo "gpg --verify $SHA.asc $SHA" 
-gpg --verify $SHA.asc $SHA
 #!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
@@ -18,8 +16,7 @@ gpg --verify $SHA.asc $SHA
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-
-REC2="muhammad.hanif.fahreza@gmail.com"
+REC2=muhammad.hanif.fahreza@gmail.com
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
@@ -60,3 +57,6 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
+
+
+

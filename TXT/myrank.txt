@@ -1,6 +1,12 @@
 # TOP 10 Rank
 
-# Week 01
+
 ZCZC W01 haradijul
 ZCZC W01 hanifahaputri
 ZCZC W01 gilangcy
+ZCZC W02 gilangcy
+ZCZC W02 haradijul
+ZCZC W02 hanifahputri
+ZCZC W03 hanifaudah
+ZCZC W03 haradijul
+ZCZC W03 HardJoe

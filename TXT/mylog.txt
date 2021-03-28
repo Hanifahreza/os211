@@ -24,4 +24,7 @@ ZCZC W03 30 L10 Demo W03
 ZCZC W03 120 L22 Watching youtube links for W03.md
 ZCZC W03 60 L08 Making shared folder
 ZCZC W03 60 L10 Making W03.md
-
+ZCZC W04 120 L02 Weekly zoom lecture
+ZCZC W04 210 L05 GSGS mengenai materi W03 untuk W03.md
+ZCZC W04 45 L13 Read neigbors' top10 and write myRank
+ZCZC W04 60 L10 Menulis W03.md
