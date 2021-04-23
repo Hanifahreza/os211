@@ -12,6 +12,7 @@ Muhammad Hanif Fahreza - 1906351026
 [W03](https://hanifahreza.github.io/os211/W03/)
 [W04](https://hanifahreza.github.io/os211/W04/)
 [W05](https://hanifahreza.github.io/os211/W05/)
+[W06](https://hanifahreza.github.io/os211/W06/)
 
 
 
