@@ -31,5 +31,8 @@ ZCZC W04 60 L10 Menulis W03.md
 ZCZC W05 120 L05 GSGS mengenai materi W05 untuk w05.md
 ZCZC W05 30 L10 Menulis w05.md untuk W05
 ZCZC W05 180 L10 Mengerjakan tugas-tugas untuk W05
-
+ZCZC W06 60 L10 Mengerjakan tugas-tugas W06
+ZCZC W06 60 L13 Read neighbors' top10 and write myRank
+ZCZC W06 180 L05 GSGS mengenai materi W06 untuk w06.md
+ZCZC W06 60 L10 Menulis w06.md
 
