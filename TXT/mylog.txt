@@ -35,4 +35,7 @@ ZCZC W06 60 L10 Mengerjakan tugas-tugas W06
 ZCZC W06 60 L13 Read neighbors' top10 and write myRank
 ZCZC W06 180 L05 GSGS mengenai materi W06 untuk w06.md
 ZCZC W06 60 L10 Menulis w06.md
-
+ZCZC W07 90 L10 mengerjakan tugas-tugas W07
+ZCZC W07 60 L13 Read neighbors' top10 and write myrank
+ZCZC W07 120 L05 GSGS mengenai materi W07 untuk w07.md
+ZCZC W07 60 L10 menulis w07.md
