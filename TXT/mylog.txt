@@ -43,4 +43,8 @@ ZCZC W08 300 L10 LFS 1-4
 ZCZC W08 30 L05 GSGS Materi W08 untuk w08.md
 ZCZC W08 40 L13 Read neighbors' top 10 and write myrank
 ZCZC W08 90 L10 Menulis w08.md
+ZCZC W09 60 L05 GSGS Materi W09 untuk w09.md
+ZCZC W09 60 L10 GSGS menulis w09.md
+ZCZC W09 10 L13 Read neighbors' top 10 and write myrank
+ZCZC W09 300 L10 LFS 5-7
 

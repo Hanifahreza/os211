@@ -22,4 +22,7 @@ ZCZC W06 haradijul
 ZCZC W07 Hardjoe
 ZCZC W07 Hans-sss
 ZCZC W07 handi91
+ZCZC W08 Hardjoe
+ZCZC W08 Hans-sss
+ZCZC W08 haradijul
 
