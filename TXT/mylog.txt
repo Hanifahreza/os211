@@ -47,4 +47,5 @@ ZCZC W09 60 L05 GSGS Materi W09 untuk w09.md
 ZCZC W09 60 L10 GSGS menulis w09.md
 ZCZC W09 10 L13 Read neighbors' top 10 and write myrank
 ZCZC W09 300 L10 LFS 5-7
-
+ZCZC W10 540 L10 LFS 8
+ZCZC W10 10 L13 Read neighbors' top 10 and write myrank
